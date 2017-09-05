@@ -20,15 +20,10 @@ print('Hello World!')
 print('Hello Blog!')
 ```
 
-$$
-e^{jx}=\cos x+j\sin x
-$$
+![](http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
 
-$$
-\[e^{jx}=\cos x+j\sin x\]
-$$
-
-$\sqrt{1+\sqrt[p]{1+\sqrt[q]{1+a}}}$
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
 
 - Test Picture
 ![pic][pic]
