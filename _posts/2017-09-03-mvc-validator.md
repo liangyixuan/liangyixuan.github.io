@@ -28,11 +28,7 @@ $$
 \[e^{jx}=\cos x+j\sin x\]
 $$
 
-\[e^{jx}=\cos x+j\sin x\]
-
-$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
-
-\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
+$\sqrt{1+\sqrt[p]{1+\sqrt[q]{1+a}}}$
 
 - Test Picture
 ![pic][pic]
