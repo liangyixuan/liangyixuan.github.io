@@ -34,7 +34,8 @@ print('Hello Blog!')
 ![](http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
 
 1.formula test $$e^{jx}= \cos x + j\sin x$$ formula test
-11.formula test $e^{jx}= \cos x + j\sin x$ formula test
+
+123 $\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t$ 123
 
 4.formula test $$ e^{jx}= \cos x + j\sin x $$ formula test
 
@@ -42,6 +43,11 @@ print('Hello Blog!')
 
 3.formula test \[e^{jx}= \cos x + j\sin x\] formula test
 
+$$e^{jx}= \cos x + j\sin x$$
+
+\(e^{jx}= \cos x + j\sin x\)
+
+\[e^{jx}= \cos x + j\sin x\]
 
 123 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a} 456
 
