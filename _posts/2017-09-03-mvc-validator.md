@@ -38,6 +38,7 @@ print('Hello Blog!')
 $$e^{jx}= \cos x + j\sin x$$
 
 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
+
 $$\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
 
 - Test Picture
