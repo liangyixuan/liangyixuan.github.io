@@ -34,6 +34,7 @@ print('Hello Blog!')
 ![](http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
 
 1.formula test $$e^{jx}= \cos x + j\sin x$$ formula test
+11.formula test $e^{jx}= \cos x + j\sin x$ formula test
 
 4.formula test $$ e^{jx}= \cos x + j\sin x $$ formula test
 
@@ -42,9 +43,9 @@ print('Hello Blog!')
 3.formula test \[e^{jx}= \cos x + j\sin x\] formula test
 
 
-123$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}456
+123 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a} 456
 
-789$$\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)321
+789 $$\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\) 321
 
 - Test Picture
 ![pic][pic]
