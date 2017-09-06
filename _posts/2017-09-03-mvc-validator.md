@@ -21,11 +21,7 @@ categories: other
 | Second line     |foo         | **strong**      | baz            |
 | Third line      |quux        | baz             | bar            |
 |-----------------+------------+-----------------+----------------|
-| Second body     |            |                 |                |
-| 2 line          |            |                 |                |
-|=================+============+=================+================|
-| Footer row      |            |                 |                |
-|-----------------+------------+-----------------+----------------|
+
 
 * * *
 - Test Code
@@ -36,8 +32,6 @@ print('Hello Blog!')
 ```
 
 ![](http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
-
-![](http://www.forkosh.com/mathtex.cgi? \Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
 
 $$
 \begin{align*}
@@ -57,6 +51,9 @@ $$
 $$
 
 $$ 5 + 5 $$
+
+$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
+$$\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
 
 - Test Picture
 ![pic][pic]
