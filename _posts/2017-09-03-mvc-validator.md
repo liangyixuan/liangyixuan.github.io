@@ -35,23 +35,15 @@ print('Hello Blog!')
 
 1.formula test $$e^{jx}= \cos x + j\sin x$$ formula test
 
-123 $\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t$ 123
-
-4.formula test $$ e^{jx}= \cos x + j\sin x $$ formula test
-
-2.formula test \(e^{jx}= \cos x + j\sin x\) formula test
-
-3.formula test \[e^{jx}= \cos x + j\sin x\] formula test
-
 $$e^{jx}= \cos x + j\sin x$$
 
-\(e^{jx}= \cos x + j\sin x\)
+$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a} 
 
-\[e^{jx}= \cos x + j\sin x\]
+456
 
-123 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a} 456
+$$\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\) 321
 
-789 $$\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\) 321
+$$\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
 
 - Test Picture
 ![pic][pic]
