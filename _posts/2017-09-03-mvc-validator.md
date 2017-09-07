@@ -5,7 +5,7 @@ categories: other
 ---
 
 
-*Github* & `Jekyll`
+This blog is drived by *Github* & `Jekyll`.
 
 - Test Table
 
@@ -38,7 +38,7 @@ print('Hello Blog!')
 
 This is a inline Eular equation: \\(e^{jx}= \cos x + j\sin x\\)
 
-This is a displayed Eular equation: $$e^{jx}= \cos x + j\sin x$$
+This is a displayed Eular equation:
 $$e^{jx}= \cos x + j\sin x$$
 
 
