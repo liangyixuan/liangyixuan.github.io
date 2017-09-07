@@ -36,25 +36,10 @@ print('Hello Blog!')
 
 - formula test 2
 
-$$e^{jx}= \cos x + j\sin x
+This is a inline Eular equation: \\(e^{jx}= \cos x + j\sin x\\)
 
-
-\\(e^{jx}= \cos x + j\sin x\\)
-
-
+This is a displayed Eular equation: $$e^{jx}= \cos x + j\sin x$$
 $$e^{jx}= \cos x + j\sin x$$
-
-
-inline formula $$e^{jx}= \cos x + j\sin x$$ is Eular formula
-
-
-
-inline formula \\(e^{jx}= \cos x + j\sin x\\) is Eular formula
-
-
-$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
-
-\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
 
 
 - Test Picture
