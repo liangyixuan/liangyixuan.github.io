@@ -38,8 +38,7 @@ print('Hello Blog!')
 
 This is a inline Eular equation: \\(e^{jx}= \cos x + j\sin x\\)
 
-This is a displayed Eular equation:
-
+This is a displayed Eular equation: 
 $$e^{jx}= \cos x + j\sin x$$
 
 
